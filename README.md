@@ -3,6 +3,7 @@
 **Overview**
 ---
 ChatifyX is a modern, real-time chat application designed for seamless one-on-one messaging. Built using Socket.IO, Node.js, and React, it enables fast, interactive communication with a clean and responsive UI. Whether you're building live support, team collaboration tools, or social chat apps, ChatifyX is ready to power conversations that feel instant and intuitive. With support for online presence, typing indicators, and emoji-enhanced messages, ChatifyX delivers the smooth user experience expected from high-quality chat platforms.
+
 ---
 **Features**
 ---
